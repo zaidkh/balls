@@ -1,5 +1,5 @@
 <?php
-
+//
 require_once '../../includes/includes.php';
 
 if (isset($_POST['submit'])) {
